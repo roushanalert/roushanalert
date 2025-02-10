@@ -20,7 +20,9 @@
 </div>
 
 ### 📫 Reach me:
-  [LinkedIn] (https://www.linkedin.com/in/roushan-kumar-946a60243)
+<a href="https://www.linkedin.com/in/roushan-kumar-946a60243" target="_blank">
+  [LinkedIn]
+ </a>
 
 <!---
 roushanalert/roushanalert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
